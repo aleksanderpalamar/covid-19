@@ -1,0 +1,20 @@
+{
+  "name": "covid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "next": "^9.3.2",
+    "next-images": "^1.3.1",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0",
+    "styled-components": "^5.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "next"
+  },
+  "keywords": ["covid-19", "nextjs", "nodejs"],
+  "author": "Palamar",
+  "license": "MIT"
+}
